@@ -1,4 +1,3 @@
-let everywhere = document.querySelector(".imgcontinent");
-document.addEventListener("click",
-    console.log("hi")
+document.documentElement.addEventListener("click", 
+function display(){console.log()}
 )
